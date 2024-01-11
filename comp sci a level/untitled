@@ -1,0 +1,14 @@
+total_1 = 0
+total_2 = 0 
+while total <= 20:
+    print(input("Do you wasnt ot vote for Muzz or William?"))
+name1 = (input)
+if name1 == "Muzz":
+         total_1 = total+1
+else input == "William":
+         total_2 = total_2 + 1
+print(total_1)
+print(total_2)         
+      
+     
+
